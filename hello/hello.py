@@ -1,4 +1,4 @@
 a = mask_path.parent
  
  
- a
+ a=1
